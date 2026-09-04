@@ -101,6 +101,7 @@ fastapi-fundamentals/
 │   ├── main.py
 │   └── models.py
 │
+|
 ├── 07-dependencies/
 │   ├── main.py
 │   └── dependencies.py
