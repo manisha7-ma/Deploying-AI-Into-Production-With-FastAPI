@@ -327,9 +327,9 @@ Before moving to the next module, I should be able to answer:
 
 # 13. Completion Checklist
 
-* [ ] Created Python project
-* [ ] Created virtual environment
-* [ ] Installed FastAPI
+* [X] Created Python project
+* [X] Created virtual environment
+* [X] Installed FastAPI
 * [ ] Created `main.py`
 * [ ] Created FastAPI application
 * [ ] Created first GET endpoint
