@@ -330,7 +330,7 @@ Before moving to the next module, I should be able to answer:
 * [X] Created Python project
 * [X] Created virtual environment
 * [X] Installed FastAPI
-* [ ] Created `main.py`
+* [X] Created `main.py`
 * [ ] Created FastAPI application
 * [ ] Created first GET endpoint
 * [ ] Started application using Uvicorn
