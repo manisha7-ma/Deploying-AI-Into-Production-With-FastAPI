@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 app = FastAPI()
 db=[
+    
     {"id":1,"size":"s","fuel":"petrol","doors":4,"transmission":"manual"},
     {"id":2,"size":"m","fuel":"diesel","doors":4,"transmission":"automatic"},
     {"id":3,"size":"l","fuel":"electric","doors":2,"transmission":"automatic"}, 
